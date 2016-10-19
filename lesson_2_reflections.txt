@@ -6,3 +6,10 @@ you'll be using in your repository.
 
 
 --------------------------------------------------------------------------------
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The staging area is a subset of the working directory that only includes the 
+files relavant to a particular commit. The repository is the result of 
+committing the staging area. This is useful because it allows you to 'bundle' 
+the relevant files for a particular logical change.
