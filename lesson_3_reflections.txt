@@ -29,8 +29,16 @@ You don't need internet access to, well, access it. You also have the most
 recent version of the work, so you don't duplicate or run into complicated 
 merge conflicts.
 
+--------------------------------------------------------------------------------
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+I'd probably set up a directory on a shared drive or something. It would be 
+harder because we couldn't update at the same time and restore to a certain 
+point. It'd be easier becuase everyone know how to use a file system.
 
 
-
-
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
