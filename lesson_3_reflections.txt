@@ -20,3 +20,17 @@ some commit) that are local. They may come from another local source, or they
 may come from GitHub. Finally, forks are clones, but both copies are on GitHub 
 itself. Usually, the original is owned by someone else and you want a copy to 
 work on without messing theirs up.
+
+--------------------------------------------------------------------------------
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+You don't need internet access to, well, access it. You also have the most 
+recent version of the work, so you don't duplicate or run into complicated 
+merge conflicts.
+
+
+
+
+
+--------------------------------------------------------------------------------
