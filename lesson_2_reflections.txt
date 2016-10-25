@@ -13,3 +13,10 @@ The staging area is a subset of the working directory that only includes the
 files relavant to a particular commit. The repository is the result of 
 committing the staging area. This is useful because it allows you to 'bundle' 
 the relevant files for a particular logical change.
+
+--------------------------------------------------------------------------------
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+By only adding files to the staging area as you make the changes.
+
