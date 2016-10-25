@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Well, it's a backup. So that's cool. More importantly, though, it can be used on lots of computers, so collaboration and moving around is easy.
