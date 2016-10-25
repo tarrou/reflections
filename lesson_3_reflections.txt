@@ -39,6 +39,13 @@ point. It'd be easier becuase everyone know how to use a file system.
 
 
 --------------------------------------------------------------------------------
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+Two biggies: when I'm making a large change or expermenting with something and 
+when I'm collaborating, so that someone can confirm my pull requests.
+
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
