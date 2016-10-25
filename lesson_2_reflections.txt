@@ -4,7 +4,6 @@ A new directory, ".git", is established that is used to keep track of the
 file history. You need to do it so that git can take a snapshot of the files 
 you'll be using in your repository.
 
-
 --------------------------------------------------------------------------------
 How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
