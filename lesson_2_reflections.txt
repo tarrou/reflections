@@ -19,3 +19,32 @@ change?
 
 By only adding files to the staging area as you make the changes.
 
+--------------------------------------------------------------------------------
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+The main situation is when adding any new complicated thing. For a commit, you 
+want one logical change. But a lot of work requires way more than one logicial 
+change, and the software may not work in the process of making those changes. 
+So I see a branch as a 'project' of commits.
+
+--------------------------------------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+
+They focus on only the information I need.
+
+--------------------------------------------------------------------------------
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+The reuslt is a new file with changes made on both branches. We represent it as 
+a graph to emphaisze the parents, which are used in the merging process.
+
+--------------------------------------------------------------------------------
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Pros are that it's fast and easy. Cons are that you don't actually know what 
+was changed.
+
+--------------------------------------------------------------------------------
